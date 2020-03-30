@@ -88,6 +88,8 @@ def adding_matz
 programmer_hash[:yukihiro_matsumoto][:known_for] = "Ruby"
 programmer_hash[:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 
+programmer_hash = {key: value}
+
 # programmer_hash[:yukihiro_matsumoto][:known_for].push("Ruby")
 # programmer_hash[:yukihiro_matsumoto][:languages].push("LISP", "C")
 # programmer_hash[:yukihiro_matsumoto][:known_for => "Ruby"]
